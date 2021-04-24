@@ -5,7 +5,8 @@ Text classification is an important task in Natural Language Processing (NLP). I
 
 More information can be found in [the project report](ML_for_NLP_ENSAE_LE_CORNEC.pdf).
 
-All code can be run in colab, using the [provided notebook](name-classification.ipynb)
+All code can be run in colab, using the [provided notebook](name-classification.ipynb).  
+Click this [direct link](https://colab.research.google.com/drive/1zDhIKoMHqlYjJTVSacJ6nNLw90pZaKTB?usp=sharing) to directly access the notebook on Colab. Simply save a copy to your workspace to run/edit the code.
 
 ### Contributions
 
